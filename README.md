@@ -3,5 +3,8 @@
 ## Greetings!!!
 
 this is for my super fun computer science class.
-favorite [website](netflix.com)
-!(img/vanilla.png)
+favorite websites:
+  - [website](netflix.com)
+  - [website](towerhill.org)
+  - [website](revolve.com)
+
