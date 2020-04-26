@@ -3,7 +3,8 @@
 ## Greetings!!!
 
 this is for my super fun computer science class.
-favorite websites:
+
+some of my favorite websites include:
   - [netflix](netflix.com)
   - [tower hill](towerhill.org)
   - [shopping](revolve.com)
