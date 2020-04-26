@@ -1,8 +1,8 @@
 # Hello World
 
 ## Greetings!!!
-<div class="text-blue mb-2">
-  My name is Kyla Allen
+<div class="text-purple">
+  My name is Kyla.
 </div>
 
 this is for my super fun computer science class.
