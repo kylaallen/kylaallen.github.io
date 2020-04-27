@@ -22,3 +22,5 @@ some of my favorite websites include:
 |spinach | cucumber|
 |kale | pickles|
 |asparagus | avocados|
+
+![computer science](https://i.ytimg.com/vi/SzJ46YA_RaA/maxresdefault.jpg)
